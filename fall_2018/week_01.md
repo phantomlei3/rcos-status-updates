@@ -1,22 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+Last week, I accomplished the first prototype of front end design by using UI design software, Sketch. 
+The first prototype includes the landing page, two pages associated with showing course trends to users.
+I also designed a simple logo to promote the aesthetics of front end.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+We will have a meeting on Wednesday night to discuss about the front end design. In addition,
+I will start to build the static website first with my teammates by using html, css and jquery.
+If I have extra time this week, I will start to work on data visualization.
 
 ## Anything Blocking?
+I have a lot of homework to do due to two 4000-level advanced MATP courses. I may have limited time to do our project.
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
